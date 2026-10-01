@@ -26,7 +26,7 @@ The platform focuses on three main modules:
 - Update answers.
 - Delete answers when required.
 
- 3.** Moderation**
+ 3.**Moderation**
 - Monitor community discussions.
 - Remove irrelevant or inappropriate content.
 - Manage resolved discussions.
